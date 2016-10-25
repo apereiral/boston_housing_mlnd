@@ -1,5 +1,7 @@
-### TLDR: If you want to read the project's final report click on: boston_housing.ipynb
-### Bellow you can find the original README file from Udacity explaining some details about the project.
+# TLDR: If you want to read the project's final report click on: report.html
+# Bellow you can find the original README file from Udacity explaining some details about the project.
+
+________________________________________________________________________________________________________________________________________
 
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
